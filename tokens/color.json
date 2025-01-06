@@ -4,7 +4,7 @@
     "Color Brand": {
       "primary": {
         "$type": "color",
-        "$value": "#25d93d"
+        "$value": "#0000ff"
       },
       "primary-dark1": {
         "$type": "color",
