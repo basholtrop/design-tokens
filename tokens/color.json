@@ -180,6 +180,22 @@
       }
     }
   },
+  "Semantic/Desktop": {
+    "Surface": {
+      "Button": {
+        "$type": "color",
+        "$value": "{Color Brand.primary}"
+      }
+    }
+  },
+  "Semantic/Mobile": {
+    "Surface": {
+      "Button": {
+        "$type": "color",
+        "$value": "{Color Brand.rating}"
+      }
+    }
+  },
   "Size/Desktop": {
     "Zakelijk": {
       "$type": "boolean",
