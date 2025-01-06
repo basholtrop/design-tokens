@@ -582,6 +582,8 @@
       "global",
       "Primitive/Desktop",
       "Semantic/Mode 1",
+      "Semantic/Desktop",
+      "Semantic/Mobile",
       "Size/Desktop",
       "Size/Tablet",
       "Size/Mobile",
