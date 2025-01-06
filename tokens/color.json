@@ -4,7 +4,7 @@
     "Color Brand": {
       "primary": {
         "$type": "color",
-        "$value": "#ff0000"
+        "$value": "#25d93d"
       },
       "primary-dark1": {
         "$type": "color",
@@ -576,6 +576,178 @@
       }
     }
   },
+  "Primitive/Desktop/Primitive/Desktop": {
+    "Color Brand": {
+      "primary": {
+        "$type": "color",
+        "$value": "#ffe500"
+      },
+      "primary-dark1": {
+        "$type": "color",
+        "$value": "#493652"
+      },
+      "primary-dark2": {
+        "$type": "color",
+        "$value": "#311c3b"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#3bc175"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "#f5e7f5"
+      },
+      "rating": {
+        "$type": "color",
+        "$value": "#e3d700"
+      },
+      "darkgray": {
+        "$type": "color",
+        "$value": "#333333"
+      }
+    },
+    "Color Neutral": {
+      "100": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#e7e7e7"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#d4d4d4"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#c6c6c6"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#a0a0a0"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#7f7f7f"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#454545"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#333333"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#292929"
+      },
+      "1000": {
+        "$type": "color",
+        "$value": "#000000"
+      }
+    },
+    "Color System": {
+      "success": {
+        "$type": "color",
+        "$value": "#3bc175"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "#f77d03"
+      },
+      "error": {
+        "$type": "color",
+        "$value": "#b42318"
+      }
+    },
+    "Color Purple": {
+      "100": {
+        "$type": "color",
+        "$value": "#dacbe1"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#bea6cb"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#a382b4"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#a382b4"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#6c3987"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#562e6c"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#412251"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#2b1736"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#160b1b"
+      },
+      "1000": {
+        "$type": "color",
+        "$value": "#0b060e"
+      }
+    },
+    "Color Green": {
+      "100": {
+        "$type": "color",
+        "$value": "#d8f3e3"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#b1e6c8"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#89daac"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#62cd91"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#3bc175"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#2f9a5e"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#237446"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#184d2f"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#0c2717"
+      },
+      "1000": {
+        "$type": "color",
+        "$value": "#06130c"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -588,7 +760,8 @@
       "Size/Tablet",
       "Size/Mobile",
       "Typography/Desktop",
-      "Typography/Mobile"
+      "Typography/Mobile",
+      "Primitive/Desktop/Primitive/Desktop"
     ]
   }
 }
