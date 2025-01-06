@@ -180,6 +180,22 @@
       }
     }
   },
+  "Semantic/Desktop": {
+    "Surface": {
+      "Button": {
+        "$type": "color",
+        "$value": "{Color Brand.primary}"
+      }
+    }
+  },
+  "Semantic/Mobile": {
+    "Surface": {
+      "Button": {
+        "$type": "color",
+        "$value": "{Color Brand.rating}"
+      }
+    }
+  },
   "Size/Desktop": {
     "Zakelijk": {
       "$type": "boolean",
@@ -566,6 +582,8 @@
       "global",
       "Primitive/Desktop",
       "Semantic/Mode 1",
+      "Semantic/Desktop",
+      "Semantic/Mobile",
       "Size/Desktop",
       "Size/Tablet",
       "Size/Mobile",
